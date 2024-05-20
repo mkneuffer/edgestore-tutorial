@@ -7,9 +7,9 @@ Create your account at [https://dashboard.edgestore.dev/](https://dashboard.edge
 ### 2. Run these commands
 
 ```bash
-# Copy the .env.example file to .env
+# Copy the .env file to .env
 # and fill in the variables
-cp .env.example .env
+cp .env .env
 # Install dependencies
 npm install
 # Run the app
